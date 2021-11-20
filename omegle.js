@@ -9,7 +9,7 @@ class OmegleScratch {
   getInfo() {
     return {
       id: 'omegle',
-      name: 'Omegle',
+      name: 'Om',
 
       color1: '#70B7FF',
       color2: '#3F9FFF',
